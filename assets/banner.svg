@@ -42,7 +42,7 @@
     <animateMotion dur="4s" repeatCount="indefinite" path="M860 160 H990 L1020 130 H1180"/>
   </circle>
   <circle r="4" fill="#fae8ff">
-    <animateMotion dur="5s" begin="1s" repeatCount="indefinite" path="M840 250 H950 L980 220 H1120 L1150 250 H1220"/>
+    <animateMotion dur="5s" begin="-1s" repeatCount="indefinite" path="M840 250 H950 L980 220 H1120 L1150 250 H1220"/>
   </circle>
 
   <!-- chip with code-bracket mark -->
