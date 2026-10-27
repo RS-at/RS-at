@@ -37,16 +37,19 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RS-at&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RS-at&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
+<!-- 有公开项目和提交记录后，可恢复以下卡片：
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RS-at&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RS-at&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RS-at&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
+-->
 
 ---
 
